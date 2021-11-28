@@ -34,3 +34,4 @@ E:\Personal\Arun Projects\dotnetcore-docker-samples\aspnetapp\aspnetapp\obj\Debu
 E:\Personal\Arun Projects\dotnetcore-docker-samples\aspnetapp\aspnetapp\obj\Debug\netcoreapp3.1\aspnetapp.pdb
 E:\Personal\Arun Projects\dotnetcore-docker-samples\aspnetapp\aspnetapp\obj\Debug\netcoreapp3.1\aspnetapp.genruntimeconfig.cache
 E:\Personal\Arun Projects\dotnetcore-docker-samples\aspnetapp\aspnetapp\obj\Debug\netcoreapp3.1\aspnetapp.csproj.CopyComplete
+E:\Personal\Arun Projects\dotnetcore-docker-samples\aspnetapp\aspnetapp\obj\Debug\netcoreapp3.1\aspnetapp.csproj.AssemblyReference.cache
